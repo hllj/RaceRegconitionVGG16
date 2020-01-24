@@ -2,7 +2,7 @@
 Race Regconition using Pretrained model VGG16.
 
 #1. Materials:
-- Paper in this repo: (Race Recognition Using Deep Convolutional Neural Networks)[https://drive.google.com/drive/folders/1ZKVwGre-my2DE6jbwdHoN3UvUgLsNcUP?fbclid=IwAR07NFXYvAsKaG8giMuu73Dhd10mXmAr4ntv2ZA8h1bSs1P6NSOX2FJ-1e8]
+- Paper in this repo: Vo, Thanh et al. "Race Recognition Using Deep Convolutional Neural Networks". Symmetry, vol 10, no. 11, 2018, p. 564. MDPI AG, doi:10.3390/sym10110564. Accessed 24 Jan 2020.
 
 #2. Model:
 - Pretrained VGG16 from Imagenet
